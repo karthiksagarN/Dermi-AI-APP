@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+rouge_score
+tensorflow
+transformers
+openai
+langchain
+os
+PIL
+cv2
+sklearn
